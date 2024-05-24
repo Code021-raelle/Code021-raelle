@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fionag26" alt="fionag26" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/codegeniushq" target="blank"><img src="https://img.shields.io/twitter/follow/codegeniushq?logo=twitter&style=for-the-badge" alt="codegeniushq" /></a> </p>
 
 - 🔭 I’m currently working on [Object relational mapping](https://github.com/Code021-raelle/Object_relational_mapping)
 
