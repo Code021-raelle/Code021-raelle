@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code021-raelle&label=Profile%20views&color=0e75b6&style=flat" alt="code021-raelle" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fionag26" alt="fionag26" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Code021-raelle" alt="Code021-raelle" /></a> </p>
 
 
 - 🔭 I’m currently working on [Object relational mapping](https://github.com/Code021-raelle/Object_relational_mapping)
