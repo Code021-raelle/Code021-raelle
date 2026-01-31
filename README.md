@@ -8,7 +8,7 @@
 Software Engineering Intern candidate focused on backend systems,
 APIs, and scalable applications.
 
-Currently seeking remote internship opportunities.
+Currently seeking remote internship opportunities.</h>
 Tech: Python, JavaScript, Java, SQL, REST APIs, Git
 
 
