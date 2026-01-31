@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Code021-raelle" alt="Code021-raelle" /></a> </p>
 
+Software Engineering Intern candidate focused on backend systems,
+APIs, and scalable applications.
+
+Currently seeking remote internship opportunities.
+Tech: Python, JavaScript, Java, SQL, REST APIs, Git
+
 
 - 🔭 I’m currently working on [Object relational mapping](https://github.com/Code021-raelle/Object_relational_mapping)
 
