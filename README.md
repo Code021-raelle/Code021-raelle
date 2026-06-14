@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Gabriel AKinshola</h1>
-<h3 align="center">A Passionate Full Stack Software Engineer from Nigeria</h3>
+<h3 align="center">A Passionate Software & DevOps Engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code021-raelle&label=Profile%20views&color=0e75b6&style=flat" alt="code021-raelle" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Code021-raelle" alt="Code021-raelle" /></a> </p>
 
 Software Engineering Intern candidate focused on backend systems,
-APIs, and scalable applications.
+APIs, and scalable applications and DevOps Engineer for Scalable
+Cloud systems.
 
 <h>Currently seeking remote internship opportunities.</h>
-Tech: Python, JavaScript, Java, SQL, REST APIs, Git
+Tech: Python, CI/CD, Docker, Jenkins, AWS, PostgreSQL, Prisma, Bash Scripting, Azure, JavaScript, Java, SQL, REST APIs, Git, NestJS
 
 
-- 🔭 I’m currently working on [Object relational mapping](https://github.com/Code021-raelle/Object_relational_mapping)
+- 🔭 I’m currently working on [Afridam AI](https://github.com/AfriDam-AI)
 
-- 🌱 I’m currently learning **ERP**
+- 🌱 I’m currently learning **MICROSOFT AZURE**
 
 - 🤝 I’m looking for help with [frappe-bench](https://github.com/Code021-raelle/frappe-bench)
 
