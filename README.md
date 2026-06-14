@@ -10,7 +10,7 @@ APIs, and scalable applications and DevOps Engineer for Scalable
 Cloud systems.
 
 <h>Currently seeking remote internship opportunities.</h>
-Tech: Python, CI/CD, Docker, Jenkins, AWS, PostgreSQL, Prisma, Bash Scripting, Azure, JavaScript, Java, SQL, REST APIs, Git, NestJS
+<p>Tech: Python, CI/CD, Docker, Jenkins, AWS, Google Cloud, PostgreSQL, Prisma, Bash Scripting, Azure, JavaScript, Java, SQL, REST APIs, Git, NestJS </p>
 
 
 - 🔭 I’m currently working on [Afridam AI](https://github.com/AfriDam-AI)
